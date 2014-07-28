@@ -1,6 +1,6 @@
-==========
-django_demo
-==========
+=============
+django_mysite
+=============
 
 This is a Django Demo project based on the tutorial on Django Documentaion `Writing your first Django app`_
 
